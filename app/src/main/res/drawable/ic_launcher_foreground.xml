@@ -1,0 +1,44 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Cooperative Store / Building Roof & Pediment -->
+    <!-- Triangle pediment -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,26 L30,38 L78,38 Z" />
+    <!-- Pediment beam -->
+    <path
+        android:fillColor="#FFF9C4"
+        android:pathData="M32,39 H76 V42 H32 Z" />
+    <!-- 4 Classic Columns -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,43 H38 V65 H34 Z
+                          M44,43 H48 V65 H44 Z
+                          M60,43 H64 V65 H60 Z
+                          M70,43 H74 V65 H70 Z" />
+    <!-- Base step 1 -->
+    <path
+        android:fillColor="#FFF9C4"
+        android:pathData="M30,66 H78 V69 H30 Z" />
+    <!-- Base step 2 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M27,70 H81 V74 H27 Z" />
+    <!-- Golden Coin in Center between middle pillars -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M54,54 m-7,0 a7,7 0,1 0,14 0 a7,7 0,1 0,-14 0" />
+    <path
+        android:fillColor="#FFA000"
+        android:pathData="M54,54 m-5,0 a5,5 0,1 0,10 0 a5,5 0,1 0,-10 0" />
+    <path
+        android:fillColor="#FFF8E1"
+        android:pathData="M52,50 H56 V58 H52 Z" />
+    <!-- Little green growth leaf above pediment -->
+    <path
+        android:fillColor="#81C784"
+        android:pathData="M54,23 C50,18 56,16 57,21 Z" />
+</vector>

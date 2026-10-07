@@ -1,0 +1,6 @@
+{
+  "name": "KIPER",
+  "description": "Media Pembelajaran Interaktif Ekonomi Koperasi",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
